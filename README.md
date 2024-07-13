@@ -23,4 +23,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" width="40" height="40">
   <hr>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTOOGLE&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
