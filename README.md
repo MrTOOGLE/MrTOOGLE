@@ -13,14 +13,15 @@
 </div>
 <div>
   <h3>🛠️ Languages and Tools:</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/python-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/java-original-wordmark.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/html5-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/css3-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/sqlite-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/mysql-original.svg" width="40" height="40">
   <br><p>⚙️ In process of studying:</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/kotlin-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/spring-original-wordmark.svg" width="40" height="40">
   <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTOOGLE&layout=donut&theme=vision-friendly-dark">
 </div>
