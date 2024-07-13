@@ -22,4 +22,5 @@
   <br><p>⚙️ In process of studying:</p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/kotlin/kotlin-original.svg" width="40" height="40">
   <hr>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTOOGLE&layout=donut&theme=vision-friendly-dark">
 </div>
