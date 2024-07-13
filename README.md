@@ -6,7 +6,7 @@
 <div>
   <h3>👨‍💻 About Me:</h3>
   <p>
-    🌲 I am a third-year student of the TPU Bachelor's degree in "Software Engineering"  ʕ´•ᴥ•`ʔ<br>
+    🌲 I am a third-year student of the TPU bachelor's degree in "Software Engineering"  ʕ´•ᴥ•`ʔ<br>
     🌳 I was interested in programming at school, so I decided to connect my life with it
   </p>
   <hr>
