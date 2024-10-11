@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/2495635126620123466/76BF4C5EDEADFE31CF670E500D59C33652193A93/" width="500"> <br>
-  <img src="https://komarev.com/ghpvc/?username=MrTOOGLE&style=plastic&color=brightgreen&abbreviated=true&label=PROFILE+VIEWS" alt=""/>
+    <a href="https://gitlab.com/MrToogle"><img src="https://img.shields.io/badge/GitLab-mediumpurple?logo=gitlab&logoColor=orange"></a>
   <h1>🐉🏰 Hi there 🏰🧙‍♂️</h1>
 </div>
 <div>
