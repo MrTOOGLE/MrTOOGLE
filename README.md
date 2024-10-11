@@ -21,8 +21,8 @@
   <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/css3-original.svg" width="40" height="40">
   <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/sqlite-original.svg" width="40" height="40">
   <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/mysql-original.svg" width="40" height="40">
-  <br><p>⚙️ In process of studying:</p>
   <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/kotlin-original.svg" width="40" height="40">
+  <br><p>⚙️ In process of studying:</p>
   <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/f7ef5a38aeb005b24368508b39b16a4c29295c0a/img/spring-original-wordmark.svg" width="40" height="40">
   <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/2566a92b463610be909b37586a68b6f38b71ed35/img/linux-original.svg" width="40" height="40">
   <hr>
