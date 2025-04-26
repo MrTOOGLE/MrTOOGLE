@@ -27,5 +27,5 @@
   <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/c1e5b2f81da6ebe753e4421fa4ff5a9571a6ef50/img/docker-original.svg" width="40" height="40">
   <img src="https://raw.githubusercontent.com/MrTOOGLE/MrTOOGLE/2566a92b463610be909b37586a68b6f38b71ed35/img/linux-original.svg" width="40" height="40">
   <hr>
-  <img src="https://github-readme-stats-one-beige-52.vercel.app/api/top-langs/?username=MrTOOGLE&layout=donut&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats-one-beige-52.vercel.app/api/top-langs/?username=MrTOOGLE&layout=donut&theme=vision-friendly-dark&hide=css">
 </div>
