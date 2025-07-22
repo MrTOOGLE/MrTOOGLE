@@ -6,7 +6,7 @@
 <div>
   <h3>👨‍💻 About Me:</h3>
   <p>
-    🌲 I am a third-year student of the TPU bachelor's degree in "Software Engineering"  ʕ´•ᴥ•`ʔ<br>
+    🌲 I am a fourth-year student of the TPU bachelor's degree in "Software Engineering"  ʕ´•ᴥ•`ʔ<br>
     🌳 I was interested in programming at school, so I decided to connect my life with it<br>
     🌴 I also like to play in PC-games<br>
     <a href="https://steamcommunity.com/profiles/76561199394767668/"><img src="https://img.shields.io/badge/Steam-darkblue?logo=steam&logoColor=white&style=plastic"></a>
